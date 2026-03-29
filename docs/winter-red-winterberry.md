@@ -1,7 +1,7 @@
 # Winter Red Winterberry — Complete Care Guide
 ### *Ilex verticillata* 'Winter Red'
 
-> [Layout](./bed-layout-and-compatibility.md) | [Construction](./raised-bed-construction.md) | [Materials](./building-materials.md) | [Soil](./soil-composition.md) | [Drainage](./drainage-engineering.md) | **Winterberry** | [Azalea](./mandarin-lights-azalea.md) | [Bluebells](./virginia-bluebells.md) | [Phlox](./snowflake-carpet-phlox.md)
+> [Home](./index.md) | [Layout](./bed-layout-and-compatibility.md) | [Construction](./raised-bed-construction.md) | [Build Guide](./build-guide.md) | [Materials](./building-materials.md) | [Soil](./soil-composition.md) | [Drainage](./drainage-engineering.md) | [Checklist](./maintenance-calendar.md) | **Winterberry** | [Azalea](./mandarin-lights-azalea.md) | [Bluebells](./virginia-bluebells.md) | [Phlox](./snowflake-carpet-phlox.md)
 
 **Zone:** 7b–8a | **Hardiness:** USDA 3–9 | **Type:** Deciduous shrub
 **Mature size:** 6–8' tall x 6–8' wide (may stay smaller in raised bed: 4–6')

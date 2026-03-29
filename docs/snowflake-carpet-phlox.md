@@ -1,7 +1,7 @@
 # Snowflake Carpet Phlox — Complete Care Guide
 ### *Phlox subulata* 'Snowflake'
 
-> [Layout](./bed-layout-and-compatibility.md) | [Construction](./raised-bed-construction.md) | [Materials](./building-materials.md) | [Soil](./soil-composition.md) | [Drainage](./drainage-engineering.md) | [Winterberry](./winter-red-winterberry.md) | [Azalea](./mandarin-lights-azalea.md) | [Bluebells](./virginia-bluebells.md) | **Phlox**
+> [Home](./index.md) | [Layout](./bed-layout-and-compatibility.md) | [Construction](./raised-bed-construction.md) | [Build Guide](./build-guide.md) | [Materials](./building-materials.md) | [Soil](./soil-composition.md) | [Drainage](./drainage-engineering.md) | [Checklist](./maintenance-calendar.md) | [Winterberry](./winter-red-winterberry.md) | [Azalea](./mandarin-lights-azalea.md) | [Bluebells](./virginia-bluebells.md) | **Phlox**
 
 **Zone:** 7b–8a | **Hardiness:** USDA 3–8b | **Type:** Semi-evergreen mat-forming perennial
 **Mature size:** 4–6" tall x 18–24" wide | **Quantity in bed:** 1 plant

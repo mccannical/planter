@@ -1,7 +1,7 @@
 # Virginia Bluebells — Complete Care Guide
 ### *Mertensia virginica*
 
-> [Layout](./bed-layout-and-compatibility.md) | [Construction](./raised-bed-construction.md) | [Materials](./building-materials.md) | [Soil](./soil-composition.md) | [Drainage](./drainage-engineering.md) | [Winterberry](./winter-red-winterberry.md) | [Azalea](./mandarin-lights-azalea.md) | **Bluebells** | [Phlox](./snowflake-carpet-phlox.md)
+> [Home](./index.md) | [Layout](./bed-layout-and-compatibility.md) | [Construction](./raised-bed-construction.md) | [Build Guide](./build-guide.md) | [Materials](./building-materials.md) | [Soil](./soil-composition.md) | [Drainage](./drainage-engineering.md) | [Checklist](./maintenance-calendar.md) | [Winterberry](./winter-red-winterberry.md) | [Azalea](./mandarin-lights-azalea.md) | **Bluebells** | [Phlox](./snowflake-carpet-phlox.md)
 
 **Zone:** 7b–8a | **Hardiness:** USDA 3–8 | **Type:** Herbaceous perennial (spring ephemeral)
 **Mature size:** 12–24" tall x 12–18" wide | **Quantity in bed:** 2 plants

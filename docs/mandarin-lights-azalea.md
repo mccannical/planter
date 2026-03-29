@@ -1,7 +1,7 @@
 # Mandarin Lights Hardy Azalea — Complete Care Guide
 ### *Rhododendron* 'Mandarin Lights' — Northern Lights Series
 
-> [Layout](./bed-layout-and-compatibility.md) | [Construction](./raised-bed-construction.md) | [Materials](./building-materials.md) | [Soil](./soil-composition.md) | [Drainage](./drainage-engineering.md) | [Winterberry](./winter-red-winterberry.md) | **Azalea** | [Bluebells](./virginia-bluebells.md) | [Phlox](./snowflake-carpet-phlox.md)
+> [Home](./index.md) | [Layout](./bed-layout-and-compatibility.md) | [Construction](./raised-bed-construction.md) | [Build Guide](./build-guide.md) | [Materials](./building-materials.md) | [Soil](./soil-composition.md) | [Drainage](./drainage-engineering.md) | [Checklist](./maintenance-calendar.md) | [Winterberry](./winter-red-winterberry.md) | **Azalea** | [Bluebells](./virginia-bluebells.md) | [Phlox](./snowflake-carpet-phlox.md)
 
 **Zone:** 7b–8a | **Hardiness:** USDA 3–7 (conservative) / 4–8 (workable) | **Type:** Deciduous shrub
 **Mature size:** 4–5' tall x 3–4' wide | **Quantity in bed:** 2 plants

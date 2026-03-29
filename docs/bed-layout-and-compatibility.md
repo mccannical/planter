@@ -1,6 +1,6 @@
 # Bed Layout, pH Zones & Plant Compatibility
 
-> **Layout** | [Construction](./raised-bed-construction.md) | [Materials](./building-materials.md) | [Soil](./soil-composition.md) | [Drainage](./drainage-engineering.md) | [Winterberry](./winter-red-winterberry.md) | [Azalea](./mandarin-lights-azalea.md) | [Bluebells](./virginia-bluebells.md) | [Phlox](./snowflake-carpet-phlox.md)
+> [Home](./index.md) | **Layout** | [Construction](./raised-bed-construction.md) | [Build Guide](./build-guide.md) | [Materials](./building-materials.md) | [Soil](./soil-composition.md) | [Drainage](./drainage-engineering.md) | [Checklist](./maintenance-calendar.md) | [Winterberry](./winter-red-winterberry.md) | [Azalea](./mandarin-lights-azalea.md) | [Bluebells](./virginia-bluebells.md) | [Phlox](./snowflake-carpet-phlox.md)
 
 ## The Compatibility Challenge
 

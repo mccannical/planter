@@ -1,6 +1,6 @@
 # Building Materials — Belgard DESIGNFORMS Scandina Grey
 
-> [Layout](./bed-layout-and-compatibility.md) | [Construction](./raised-bed-construction.md) | **Materials** | [Soil](./soil-composition.md) | [Drainage](./drainage-engineering.md) | [Winterberry](./winter-red-winterberry.md) | [Azalea](./mandarin-lights-azalea.md) | [Bluebells](./virginia-bluebells.md) | [Phlox](./snowflake-carpet-phlox.md)
+> [Home](./index.md) | [Layout](./bed-layout-and-compatibility.md) | [Construction](./raised-bed-construction.md) | [Build Guide](./build-guide.md) | **Materials** | [Soil](./soil-composition.md) | [Drainage](./drainage-engineering.md) | [Checklist](./maintenance-calendar.md) | [Winterberry](./winter-red-winterberry.md) | [Azalea](./mandarin-lights-azalea.md) | [Bluebells](./virginia-bluebells.md) | [Phlox](./snowflake-carpet-phlox.md)
 
 https://www.lowes.com/search?searchTerm=belgard&refinement=4104834520
 
