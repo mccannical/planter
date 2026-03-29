@@ -1,0 +1,38 @@
+site_name: Garden Planner
+site_description: Raised garden bed planning reference — zone 7b–8a
+
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: green
+    accent: light green
+  features:
+    - navigation.top
+    - navigation.instant
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - toc.integrate
+
+nav:
+  - Home: index.md
+  - Planning:
+    - Layout & Compatibility: bed-layout-and-compatibility.md
+    - Construction: raised-bed-construction.md
+    - Building Materials: building-materials.md
+    - Soil Composition: soil-composition.md
+    - Drainage Engineering: drainage-engineering.md
+  - Plant Care:
+    - Winter Red Winterberry: winter-red-winterberry.md
+    - Mandarin Lights Azalea: mandarin-lights-azalea.md
+    - Virginia Bluebells: virginia-bluebells.md
+    - Snowflake Carpet Phlox: snowflake-carpet-phlox.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.highlight
+  - pymdownx.superfences
