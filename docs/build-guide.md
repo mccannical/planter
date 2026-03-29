@@ -16,7 +16,32 @@ This guide provides the step-by-step sequence for constructing the L-shaped rais
 - **Soil Components:** ~17 cu ft aged blended compost, ~17 cu ft pine bark fines/peat/perlite mix, ~7 cu ft loamy topsoil.
 - **Amendments:** Elemental sulfur (for acid zone).
 
-See [Building Materials](./building-materials.md) for full product details and item numbers.
+### Estimated Costs — Wall Materials Only
+
+| Item | DESIGNFORMS | Standard 8" CMU |
+|---|---|---|
+| Wall blocks/panels | ~25 panels x ~$10 = **~$250** | ~48 blocks x ~$2.25 = **~$108** |
+| Cap | ~11 small panels x ~$10 = ~$110 | ~14 cap blocks x ~$2 = ~$28 |
+| Hardware / mortar | ~4 kits x ~$35 = ~$140 | Mortar (~3 bags x $9) + adhesive = ~$35 |
+| **Wall total** | **~$500** | **~$170** |
+
+| Item | Est. Cost | Notes |
+|---|---|---|
+| Concrete sealer | ~$30–50 | Siloxa-Tek or RadonSeal, 1 gal covers ~200 sq ft |
+| Gravel (3/4" washed) | ~$30–40 | ~7 cu ft, limestone-free |
+| Hardware cloth (1/2" mesh) | ~$15–25 | ~21 sq ft |
+| Landscape fabric (geotextile) | ~$10–15 | ~21 sq ft |
+| Perforated PVC pipe (3") | ~$10–15 | ~10 ft |
+| HDPE root barrier | ~$15–25 | 6–12" strips for pH zone separation |
+| Soil mix components | ~$80–120 | Compost, bark fines, perlite, topsoil (~31 cu ft total) |
+| Elemental sulfur | ~$10–15 | For acid zone pH adjustment |
+| Mulch (pine bark + leaf) | ~$15–25 | Zone-specific mulch |
+| **Non-wall total** | **~$215–330** | |
+| | | |
+| **Project total (DESIGNFORMS)** | **~$715–830** | |
+| **Project total (CMU)** | **~$385–500** | |
+
+Prices are approximate Home Depot / Lowes retail (2025–2026). Does not include tools. See [Building Materials](./building-materials.md) for full product details, item numbers, and the CMU vs DESIGNFORMS comparison.
 
 ### Tools
 - Power drill with 1/4" socket adaptor.
